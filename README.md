@@ -1,5 +1,6 @@
 # FAST #
 FILTER AND AGGREGATE SYNCHROSQUEEZED TRANSFORM
+
 An update to the traditional Wavelet synchrosqueezed transform, for use when component separation is hard. FAST is optimized to separate individual components that may show distortions or beating patterns upon transformation to the frequency domain due to transient proximity of components of the signal.
 This code is written for Matlab 2021A.
 
@@ -19,3 +20,6 @@ _Meaning of the terms:_
 * bands - The frequency bands for analysis. Typically using 1:1:fs/2 is recommended. This filters and analyzes the signal in bands of 1Hz each from 1Hz to half of the Sampling Frequency.
 * fs - The sampling Frequency
 * order - Order of the filter to be used. Higher order will reduce magnitude of the filtered signal. An order of 2 is recommended.
+
+Some Results:
+_Results will be posted here soon_
