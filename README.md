@@ -25,8 +25,8 @@ _Meaning of the terms:_
 Examples from the article may be replicated using the functions in the 'example generators' folder
 
 These examples are as follows:
-* test_wave_1.m - Synthetic test example from Figure 1 of the article. It consists of a signal that is composed of multiple sinusoids which transiently switch off. The presence or absence of these components causes different types of beating and other distortions, which are well separated by FAST.
-* step_signal.m - Synthetic signal which makes a single abrupt change in frequency.
+* **test_wave_1.m** - Synthetic test example from Figure 1 of the article. It consists of a signal that is composed of multiple sinusoids which transiently switch off. The presence or absence of these components causes different types of beating and other distortions, which are well separated by FAST.
+* **step_signal.m** - Synthetic signal which makes a single abrupt change in frequency.
 
 Some Results:
 _Results will be posted here soon_
