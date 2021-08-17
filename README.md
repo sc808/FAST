@@ -1,5 +1,5 @@
 # FAST #
-FILTER AND AGGREGATE SYNCHROSQUEEZED TRANSFORM
+Filter and Aggregate Synchrosqueezed Transform
 
 An update to the traditional Wavelet synchrosqueezed transform, for use when component separation is hard. FAST is optimized to separate individual components that may show distortions or beating patterns upon transformation to the frequency domain due to transient proximity of components of the signal.
 This code is written for Matlab 2021A.
