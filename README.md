@@ -14,7 +14,7 @@ Article link will be updated here soon
 2. Navigate to the folder where this file exists
 3. Run using command : <code>fil_agg_v2(signal, bands, fs, order)
 
-*Meaning of the terms:*
+_Meaning of the terms:_
 * signal - The signal you want to analyse. It must be 1 dimensional, ie, an array with shape 1xN or Nx1
 * bands - The frequency bands for analysis. Typically using 1:1:fs/2 is recommended. This filters and analyzes the signal in bands of 1Hz each from 1Hz to half of the Sampling Frequency.
 * fs - The sampling Frequency
