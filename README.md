@@ -12,7 +12,7 @@ Article link will be updated here soon
 <b>Directions for use:</b> 
 1. Download the file fil_agg_v2.m
 2. Navigate to the folder where this file exists
-3. Run using command : <code>[FAST, f] = fil_agg_v2(signal, bands, fs, order)
+3. Run using command : code([FAST, f] = fil_agg_v2(signal, bands, fs, order))
 
 Meaning of the terms:
 * signal - The signal you want to analyse. It must be 1 dimensional, ie, an array with shape 1xN or Nx1
