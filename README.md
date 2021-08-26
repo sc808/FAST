@@ -4,7 +4,7 @@
 An update to the traditional Wavelet synchrosqueezed transform, for use when component separation is hard. FAST is optimized to separate individual components that may show distortions or beating patterns upon transformation to the frequency domain due to transient proximity of components of the signal.
 This code is written for Matlab 2021A.
 
-Article link will be updated here soon
+Article link : [Pre-print available here](https://www.techrxiv.org/articles/preprint/FAST_An_extension_of_the_Wavelet_Synchrosqueezed_Transform/15177819)
 
 <b>Prerequisites:</b> 
 1. Matlab 2021A or higher (this should work with earlier versions as well, but is untested)
